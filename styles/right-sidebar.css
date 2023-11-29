@@ -1,0 +1,18 @@
+.right-sidebar {position: fixed; top: 10px; bottom: 0; right: 0; 
+    width: 280px; margin-left: 20px;}
+.search-button {width: 250px; padding: 5px 10px; border-radius: 10px; border: none;}
+.right-section {border: 1px solid lightgray; margin-top: 10px;
+    background-color: #f0f0f0; margin-right: 10px; border-radius: 5px; margin-bottom: 5px;}
+.trends {display: flex; justify-content: space-between;
+    border-bottom: 1px solid lightgray; padding: 5px;}
+.tweet-con {display: flex; justify-content: space-between;}
+.trending-tweets {border-bottom: 1px solid lightgray; padding: 10px;}
+.last-section {display: flex; width: 250px; margin-bottom: 5px; justify-content: space-between;}
+.heading {font-weight: bold;}
+.trends i {color: blue;}
+.news, .trend-stats {color: gray; font-size: 13px;}
+.trend-tags {font-weight: bold;}
+.tweet-con i {color: gray;}
+.twitter-inc {display: flex; width: 250px; font-size: 14px;}
+.last-section p {font-size: 14px;}
+.link {color: blue; padding-left: 10px;}
